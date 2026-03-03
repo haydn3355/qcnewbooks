@@ -1,5 +1,5 @@
 <script>
-	let studentName = 'last name, first name';
+	let studentName = 'Halley, Haydn';
 </script>
 
 <div class="min-h-screen bg-gray-50 font-sans text-gray-900">
